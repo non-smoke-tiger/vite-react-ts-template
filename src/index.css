@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital@1&display=swap');
+
+body{
+    background-color: slategray;
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.home-page, .not-found-page {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img.logo {
+    width: 25vw;
+    max-width: 200px;
+}
+
+img.logo-small {
+    width: 20vw;
+    max-width: 100px;
+}
