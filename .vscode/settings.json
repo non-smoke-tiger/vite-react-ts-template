@@ -13,6 +13,7 @@
     },
     "prettier.singleQuote": true,
     //optional
+    "typescript.preferences.quoteStyle": "double",
     "prettier.semi": true,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact",
@@ -20,5 +21,6 @@
     },
     "editor.formatOnSave": true, 
     "editor.formatOnPaste": true,
-    "editor.guides.bracketPairs": true
+    "editor.guides.bracketPairs": true,
+    "editor.linkedEditing": true
 }
