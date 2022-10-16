@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import vpro from '../assets/vpro.svg';
+import './NotFound.css';
 
 function NotFound() {
   return (

@@ -8,16 +8,6 @@ body{
     -moz-osx-font-smoothing: grayscale;
 }
 
-.home-page, .not-found-page {
-    width: 100vw;
-    height: 100vh;
-    text-align: center;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 img.logo {
     width: 25vw;
     max-width: 200px;

@@ -1,4 +1,5 @@
 import vpro from '../assets/vpro.svg';
+import './Home.css';
 
 function Home() {
   return (
