@@ -15,6 +15,14 @@ This setup includes:
 - https://testing-library.com/docs/queries/about#priority
 - https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
 
+# Start by
+
+1. install package
+
+   ### `npm install`
+
+2. install vscode recommend extension
+
 # Available Scripts
 
 In the project directory, you can run:
